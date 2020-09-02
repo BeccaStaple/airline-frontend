@@ -21,10 +21,7 @@ export default class NavBar extends React.Component {
                                 <NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item>
                             </NavDropdown>
                         </Nav>
-                        <Form inline>
-                            <FormControl type="text" placeholder="Search" className="mr-sm-2" />
-                            <Button variant="outline-success">Search</Button>
-                        </Form>
+                        
                     </Navbar.Collapse>
                 </Navbar>
             </div>
