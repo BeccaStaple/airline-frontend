@@ -33,9 +33,15 @@ code {
   margin-left: 5%;
   margin-right: 5%;
 
-  padding: 10%;
+  padding: 2%;
   border-radius: 10px;
   box-shadow: 5px, 10px, black;
+  text-align: center;
+}
+
+.search-button {
+  padding: 5px;
+  margin: 5px;
 }
 
 .footer-div {
